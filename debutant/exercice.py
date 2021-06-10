@@ -11,3 +11,7 @@ print(majeur)
 print(compte_en_banque)
 print(amis)
 print(parents)
+
+nombre = 15
+nombre = str (nombre)
+print("Le nombre est " + nombre)
